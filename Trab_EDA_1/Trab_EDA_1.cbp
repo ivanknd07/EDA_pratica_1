@@ -34,6 +34,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
+		<Unit filename="sistema.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="sistema.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
